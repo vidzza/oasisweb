@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oasisweb/static/css/main.b308d773.css",
+    "main.js": "/oasisweb/static/js/main.44be427c.js",
+    "static/js/453.5154732f.chunk.js": "/oasisweb/static/js/453.5154732f.chunk.js",
+    "static/media/logo.svg": "/oasisweb/static/media/logo.8a7cdd70325d70465cd07b9b2ced761f.svg",
+    "index.html": "/oasisweb/index.html",
+    "main.b308d773.css.map": "/oasisweb/static/css/main.b308d773.css.map",
+    "main.44be427c.js.map": "/oasisweb/static/js/main.44be427c.js.map",
+    "453.5154732f.chunk.js.map": "/oasisweb/static/js/453.5154732f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b308d773.css",
+    "static/js/main.44be427c.js"
+  ]
+}
